@@ -1,6 +1,6 @@
-# Solution in JAVA 11 for "Word to initial number" Kata from https://www.codewars.com/kata/5bb148b840196d1be50000b1 
+## Solution in JAVA 11 for "Word to initial number" Kata (Kyu 6) from https://www.codewars.com/kata/5bb148b840196d1be50000b1 
 
-## Problem: 
+### Problem: 
 
 *Your task is to write the word to number converter. Digits in the number should match letters in the word.*
 
